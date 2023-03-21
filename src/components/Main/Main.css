@@ -1,0 +1,16 @@
+.Main-class{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+
+.emai svg{
+    color: blue;
+    font-size: 50px;
+}
+
+.emai p{
+    color: blue;
+    font-size: 10px;
+}

@@ -1,0 +1,32 @@
+.Sidebar_container{
+    border: 1px solid black;
+    width: 20vw;
+    height: 86vh;
+}
+
+.Sidebar_container_folders{
+    display: flex;
+    margin: 1rem;
+}
+
+.btn_container{
+
+}
+
+.buttons{
+    display: flex;
+    justify-content:space-between;
+    cursor: pointer;
+    margin: 0px 0px;
+    padding: 4px 4rem;
+   
+}
+
+.active{
+    background-color: #CDCEFC;
+}
+
+.buttons:hover{
+    background-color: #CDCEFC;
+    box-shadow: 2px 2px 24px whitesmoke;
+}

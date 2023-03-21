@@ -1,0 +1,40 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.Navbar_container{
+  background-color: black;
+  width: 100vw;
+  height: 8vh;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.left_aside{  
+  color: white;
+  display: flex;
+  align-items: center;
+}
+
+.left_aside > svg{ 
+    height: 8vh;
+    width: 4vw;
+    padding: 6px;
+    background-color: blue;
+}
+
+.left_aside > h4{  
+  color: white;
+  font-size: large;
+  margin: 10px;
+}
+
+.right_aside{
+    color: white;
+    display: flex;
+    justify-content: center;
+    margin-right: 15px;
+}
